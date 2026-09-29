@@ -2,70 +2,125 @@
 
 ### AI & Data Science | Machine Learning | Python | Power BI
 
-I'm an AI & Data Science student with hands-on experience in Machine Learning,
-Deep Learning, Data Analysis, NLP, Computer Vision, and Business Intelligence.
+I'm an AI & Data Science student interested in Machine Learning, Deep Learning,
+Data Analysis, Computer Vision, and building practical AI solutions.
 
-Currently, I'm a fourth-year Computer Science student at Arab Open University
-and an AI & Data Science Diploma graduate from Instant Software Solution.
+🎓 Bachelor of Computer Science — Arab Open University  
+🎓 AI & Data Science Diploma — Instant Software Solution
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python, C++
-- **Data Analysis:** Pandas, NumPy, EDA, Data Cleaning
-- **Machine Learning:** Scikit-learn, XGBoost, Random Forest, SVM
-- **Deep Learning:** PyTorch, CNNs, EfficientNet, LSTM
-- **NLP:** NLTK, Text Classification
-- **Computer Vision:** YOLO, Image Classification, Object Detection
-- **BI & Visualization:** Power BI, DAX, Power Query, Plotly
-- **Database:** SQL
-- **Tools:** Git, GitHub, Jupyter, Google Colab, Kaggle
+### 💻 Programming & Data
+- Python
+- NumPy
+- Pandas
+- SQL
+- Excel
+- Data Cleaning
+- Exploratory Data Analysis
+
+### 🤖 Machine Learning
+- Scikit-learn
+- Logistic Regression
+- Random Forest
+- XGBoost
+- SVM
+- Feature Engineering
+- Feature Selection
+- Model Evaluation
+
+### 🧠 Deep Learning & AI
+- PyTorch
+- CNNs
+- Transfer Learning
+- EfficientNet
+- Computer Vision
+- Transformers
+
+### 📊 Data Visualization & BI
+- Power BI
+- DAX
+- Power Query
+- Plotly
+- Matplotlib
+- Seaborn
+
+### 🧰 Tools
+- Jupyter Notebook
+- Google Colab
+- Kaggle
+- Git
+- GitHub
+- Streamlit
+- Joblib
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 Hospital Case Mix Dashboard
-Power BI dashboard for analyzing hospital case mix, specialty performance,
-payer mix, revenue, and operational KPIs.
+### 🩺 Breast Cancer Detection from Mammograms
+Deep Learning project for breast cancer detection from mammogram images
+using EfficientNet and transfer learning.
 
-### 🍷 Wine Quality Prediction
-Machine Learning project focused on predicting wine quality using data
-preprocessing, feature engineering, model training, and evaluation.
+**Technologies:** PyTorch, CNN, EfficientNet, Computer Vision
 
-### 🤖 XGBoost Classification
-Classification project using XGBoost with data preprocessing,
+---
+
+### ❤️ Human Vital Signs Risk Classification
+Machine Learning application for classifying human vital signs and assessing
+health risk levels.
+
+**Technologies:** Python, Pandas, Scikit-learn, Random Forest, XGBoost, Streamlit
+
+---
+
+### 📊 Adult Census Income Classification
+Machine Learning classification project using data preprocessing,
 feature engineering, model training, and performance evaluation.
 
-### 🚦 Road Sign Detection
-Computer Vision project for detecting and classifying road signs using YOLO.
+**Technologies:** Python, Pandas, Scikit-learn, XGBoost
 
-### 🧠 Next Word Prediction
-NLP project using LSTM to predict the next word based on previous text.
+---
 
-### 💬 Sentiment Analysis
-NLP project for classifying text sentiment using Machine Learning.
+### 🍷 Wine Quality Prediction
+Machine Learning project for predicting wine quality using data preprocessing,
+feature engineering, model training, and evaluation.
+
+**Technologies:** Python, Pandas, Scikit-learn, Jupyter Notebook
+
+---
+
+### 🐍 Snake AI
+An AI agent that plays the classic Snake game.
+
+**Technologies:** Python, Artificial Intelligence
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP & Transformers
+- MLOps
+- AI Application Development
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/yousef-moatasm-0031a438
-- GitHub: https://github.com/ym2222237-svg
-- Email: ym2222237@gmail.com## Hi there 👋
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/yousef-moatasm-0031a438
 
-<!--
-**ym2222237-svg/ym2222237-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **GitHub:**  
+https://github.com/ym2222237-svg
 
-Here are some ideas to get you started:
+📧 **Email:**  
+ym2222237@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐ Feel free to explore my repositories and projects!
